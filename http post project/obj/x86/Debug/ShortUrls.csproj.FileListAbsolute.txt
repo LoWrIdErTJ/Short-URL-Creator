@@ -1,0 +1,23 @@
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-Short URL Creator\http post project\obj\x86\Debug\ShortUrls.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-Short URL Creator\http post project\obj\x86\Debug\ShortUrls.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-Short URL Creator\http post project\bin\Debug\Short urls.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-Short URL Creator\http post project\bin\Debug\Short urls.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-Short URL Creator\http post project\obj\x86\Debug\ShortUrls.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-Short URL Creator\http post project\obj\x86\Debug\Short urls.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-Short URL Creator\http post project\obj\x86\Debug\Short urls.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Short URL Creator\http post project\bin\Debug\Short urls.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Short URL Creator\http post project\bin\Debug\Short urls.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Short URL Creator\http post project\obj\x86\Debug\ShortUrls.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Short URL Creator\http post project\obj\x86\Debug\ShortUrls.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Short URL Creator\http post project\obj\x86\Debug\ShortUrls.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Short URL Creator\http post project\obj\x86\Debug\Short urls.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\Short URL Creator\http post project\obj\x86\Debug\Short urls.pdb
+D:\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Short URL Creator\http post project\bin\Debug\Short urls.dll
+D:\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Short URL Creator\http post project\bin\Debug\Short urls.pdb
+D:\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Short URL Creator\http post project\obj\x86\Debug\ShortUrls.csprojResolveAssemblyReference.cache
+D:\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Short URL Creator\http post project\obj\x86\Debug\ShortUrls.Properties.Resources.resources
+D:\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Short URL Creator\http post project\obj\x86\Debug\ShortUrls.csproj.GenerateResource.Cache
+D:\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Short URL Creator\http post project\obj\x86\Debug\Short urls.dll
+D:\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Short URL Creator\http post project\obj\x86\Debug\Short urls.pdb
+D:\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Short URL Creator\http post project\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio and Ubot Plugins\Completed Plugins\SENT OFF TO UBOT\Short URL Creator\http post project\bin\Debug\Newtonsoft.Json.xml

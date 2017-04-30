@@ -1,0 +1,7 @@
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-Proxy scrape & checker\http post project\bin\Debug\ProxyOptions.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-Proxy scrape & checker\http post project\bin\Debug\ProxyOptions.pdb
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-Proxy scrape & checker\http post project\obj\x86\Debug\ProxyOptions.csprojResolveAssemblyReference.cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-Proxy scrape & checker\http post project\obj\x86\Debug\ProxyOptions.Properties.Resources.resources
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-Proxy scrape & checker\http post project\obj\x86\Debug\ProxyOptions.csproj.GenerateResource.Cache
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-Proxy scrape & checker\http post project\obj\x86\Debug\ProxyOptions.dll
+C:\Users\tjgaming\Desktop\Visual Studio and Ubot Plugins\Completed Plugins\-Proxy scrape & checker\http post project\obj\x86\Debug\ProxyOptions.pdb
